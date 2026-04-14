@@ -9,7 +9,7 @@ Esse repositório foi criado para armazenar as versões da plataforma online des
 
 As versões 0.21 e 0.35 citadas no artigo da Plataforma Online estão disponíveis na pasta [versions](versions).
 
-### **Você também pode interagir o Web Site [aqui](index.html).**
+### **Você também pode interagir o Web Site [aqui](https://anon-article.github.io/anon-article-16-ufsc-ensino-cont-dsr/)).**
 
 ## Prompts
 
