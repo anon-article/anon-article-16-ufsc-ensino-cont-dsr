@@ -39,7 +39,7 @@ As versões 0.21 e 0.35 citadas no artigo da Plataforma Online estão disponíve
 
 - Para o teste funcional, acesse [Teste Funcional](<docs/Avaliação do Artefato/Artefato 2/Teste Funcional.pdf>).
 
-- Para o módulo simulado, acesse a pasta [Simulado](<docs/Avaliação do Artefato/Artefato 2/Simulado/Teste Funcional.pdf>).
+- Para o módulo simulado, acesse a pasta [Simulado](<docs/Avaliação do Artefato/Artefato 2/Simulado>).
 
 # Capturas de tela do site na versão 0.35
 
