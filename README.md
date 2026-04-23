@@ -5,6 +5,12 @@
 
 Esse repositório foi criado para armazenar as versões da plataforma online desenvolvida, testes, avaliações e outros documentos que complementam o artigo. Nomes dos autores não serão revelados aqui e os comentários no código do Software referente a autoria foram removidos.
 
+## Cálculo da média de reprovação
+
+[...] "a média de reprovação foi de 73,79% em relação aos candidatos presentes, com 2023 entregando o pior resultado, de 82,65%".
+
+Você pode encontrar o cálculo da média de reprovação, abordada no tópico 2.1 do trecho acima, [neste arquivo](docs/Cálculo aprovação no Exame.xlsx).
+
 ## Versões do site
 
 As versões 0.21 e 0.35 citadas no artigo da Plataforma Online estão disponíveis na pasta [versions](versions).
@@ -66,3 +72,8 @@ As versões 0.21 e 0.35 citadas no artigo da Plataforma Online estão disponíve
 ### Modo Simulado
 
 ![simulado](src/simulado.png)
+
+### Protótipo
+
+![simulado](src/prototipo.png)
+
