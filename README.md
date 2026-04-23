@@ -9,7 +9,7 @@ Esse repositório foi criado para armazenar as versões da plataforma online des
 
 [...] "a média de reprovação foi de 73,79% em relação aos candidatos presentes, com 2023 entregando o pior resultado, de 82,65%".
 
-Você pode encontrar o cálculo da média de reprovação, abordada no tópico 2.1 do trecho acima, [neste arquivo](docs/Cálculo aprovação no Exame.xlsx).
+Você pode encontrar o cálculo da média de reprovação, abordada no tópico 2.1 do trecho acima, [neste arquivo](<docs/Cálculo aprovação no Exame.xlsx>).
 
 ## Versões do site
 
@@ -75,5 +75,5 @@ As versões 0.21 e 0.35 citadas no artigo da Plataforma Online estão disponíve
 
 ### Protótipo
 
-![simulado](src/prototipo.png)
+![prototipo](src/prototipo.png)
 
