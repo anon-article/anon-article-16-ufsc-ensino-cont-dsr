@@ -73,7 +73,7 @@ As versões 0.21 e 0.35 citadas no artigo da Plataforma Online estão disponíve
 
 ![simulado](src/simulado.png)
 
-### Protótipo
+# Protótipo
 
 ![prototipo](src/prototipo.png)
 
