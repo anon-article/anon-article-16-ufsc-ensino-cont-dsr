@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Anonymous Author (Anonymous Author)",
+    "roles": ["Criador e mantenedor", "Autor de Resolução", "Desenvolvimento"],
+    "link": {
+      "text": "GitHub",
+      "url": "https://github.com/Anonymous Author/Anonymous Author"
+    }
+  },
+  {
+    "name": "Seu nome/apelido",
+    "roles": ["pode aparecer aqui se você contribuir!"],
+    "link": null
+  }
+]
