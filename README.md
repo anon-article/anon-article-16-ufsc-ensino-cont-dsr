@@ -37,7 +37,7 @@ As versões 0.21 e 0.35 citadas no artigo da Plataforma Online estão disponíve
 
 - O arquivo [relatório_geral](<docs/Avaliação do Artefato/Artefato 1/relatorio_geral_comparativo.csv>) refere-se ao arquivo "Quantidade de questões extraídas e oficiais por disciplina". Este é uma das saídas do Artefato 1 e representa a quantidade de questões no relatório estatístico oficial e as que foram extraídas. Importante notar que as edições 2024/2 e 2025/2 foram inseridas manualmente no arquivo [avaliação analítica](<docs/Avaliação do Artefato/Artefato 1/avaliação analítica.xlsx>), pois os dados foram divulgados após o relatório geral estar pronto.
 
-- Tabela 1 Índices de aderência da Classificação Temática do Artefato 1 e a diferença  em relação aos dados oficiais do CFC (2022-2025): É possível acessar a planilha com os cálculos em [avaliação analítica](<docs/Avaliação do Artefato/Artefato 1/avaliação analítica.xlsx>).
+- Tabela 5 Índices de aderência da Classificação Temática do Artefato 1 e a diferença  em relação aos dados oficiais do CFC (2022-2025): É possível acessar a planilha com os cálculos em [avaliação analítica](<docs/Avaliação do Artefato/Artefato 1/avaliação analítica.xlsx>).
 
 - Para a saída do *Script* Python, o [anexo_auditoria_etl](<docs/Avaliação do Artefato/Artefato 1/anexo_auditoria_etl.txt>).
 
